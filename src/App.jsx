@@ -10,7 +10,7 @@ function App() {
         <Row>
           <Col>
             {" "}
-            <Image src={logoFranjaMorada} fluid alt="Vite logo" />
+            <Image src={logoFranjaMorada} className="logo" alt="Vite logo" />
             <h1>Franja Morada</h1>
             <p className="read-the-docs">Instituto Carlos Pellegrini</p>
           </Col>
