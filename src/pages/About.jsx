@@ -63,7 +63,7 @@ const About = () => {
             <Card>
               <Card.Img variant="top" src={prensa} />
               <Card.Body>
-                <Card.Title>í de prensa y difusión</Card.Title>
+                <Card.Title>Secretaría de prensa y difusión</Card.Title>
                 <Card.Text>
                   Milagros Robledo, Máximo Chalup y Emiliano Di Risio
                 </Card.Text>
@@ -74,7 +74,7 @@ const About = () => {
             <Card>
               <Card.Img variant="top" src={relacionesInternas} />
               <Card.Body>
-                <Card.Title>í de relaciones internas</Card.Title>
+                <Card.Title>Secretaría de relaciones internas</Card.Title>
                 <Card.Text>
                   Martina Taddey, Ana Paula Acosta y Ulises Mercado
                 </Card.Text>
@@ -85,7 +85,7 @@ const About = () => {
             <Card>
               <Card.Img variant="top" src={relacionesExternas} />
               <Card.Body>
-                <Card.Title>í relaciones externas</Card.Title>
+                <Card.Title>Secretaría relaciones externas</Card.Title>
                 <Card.Text>Jonhas Guzmán y Victoria Terraf</Card.Text>
               </Card.Body>
             </Card>
@@ -94,7 +94,7 @@ const About = () => {
             <Card>
               <Card.Img variant="top" src={deportes} />
               <Card.Body>
-                <Card.Title>í de deportes</Card.Title>
+                <Card.Title>Secretaría de deportes</Card.Title>
                 <Card.Text>
                   Aylin Galván, Alejo Nuñez y Benjamín Albornoz
                 </Card.Text>
@@ -105,7 +105,7 @@ const About = () => {
             <Card>
               <Card.Img variant="top" src={cultura} />
               <Card.Body>
-                <Card.Title>í de cultura</Card.Title>
+                <Card.Title>Secretaría de cultura</Card.Title>
                 <Card.Text>Agustín Carrizo y Benjamín Ruiz</Card.Text>
               </Card.Body>
             </Card>
@@ -114,7 +114,7 @@ const About = () => {
             <Card>
               <Card.Img variant="top" src={accionSocial} />
               <Card.Body>
-                <Card.Title>í de acción social</Card.Title>
+                <Card.Title>Secretaría de acción social</Card.Title>
                 <Card.Text>
                   Valentina Vallejo, Martina Sosa y Ana Antezana.
                 </Card.Text>
