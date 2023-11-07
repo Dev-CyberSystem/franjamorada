@@ -20,7 +20,7 @@ const Presentacion = () => {
             encargados y luego daremos a conocer nuestras propuestas.
           </p>
           <h4>¿Querés conocer nuestras propuestas?</h4>
-          <Button type="button" className="colorButton">
+          <Button href="/about" type="button" className="colorButton">
             Propuestas
           </Button>
         </Col>
