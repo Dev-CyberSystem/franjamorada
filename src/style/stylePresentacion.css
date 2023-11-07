@@ -1,0 +1,20 @@
+.logoPresentacion {
+  height: 400px;
+}
+.textPresentacion {
+    color: white;
+
+}
+.colorButton{
+    background-color: #a635cb;
+    color: white;
+}
+.colorButton:hover{
+    background-color: #a635cb;
+}
+
+@media (max-width: 576px) {
+    .logoPresentacion {
+        height: 200px;
+      }
+}
