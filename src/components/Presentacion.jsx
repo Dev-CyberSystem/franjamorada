@@ -4,7 +4,7 @@ import logo from "../assets/franjaMorada.jpg";
 
 const Presentacion = () => {
   return (
-    <Container className="mt-5">
+    <Container className="mt-5 justify-content-center ">
       <Row>
         <Col xs={12} md={4} className="d-flex justify-content-center">
           <Image src={logo} rounded className="logoPresentacion" />
@@ -20,7 +20,7 @@ const Presentacion = () => {
             encargados y luego daremos a conocer nuestras propuestas.
           </p>
           <h4>¿Querés conocer nuestras propuestas?</h4>
-          <Button href="/about" type="button" className="colorButton">
+          <Button href="/propuestas" type="button" className="colorButton">
             Propuestas
           </Button>
         </Col>

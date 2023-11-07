@@ -6,7 +6,7 @@ const Navegador = () => {
   return (
     <Navbar expand="lg" className="bg-body-tertiary">
       <Container>
-        <Navbar.Brand href="#home">
+        <Navbar.Brand href="/">
           <img
             src={logo}
             width="30"
@@ -14,8 +14,8 @@ const Navegador = () => {
             className="d-inline-block align-top"
             alt="logo"
           />
-          Franja Morada
         </Navbar.Brand>
+          Franja Morada
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
