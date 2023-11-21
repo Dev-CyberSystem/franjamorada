@@ -1,15 +1,15 @@
 import { Row, Col, Container, Card } from "react-bootstrap";
 import "../style/styleAbout.css";
-import presidente from "../assets/presidente.jpeg";
-import vice from "../assets/vice.jpeg";
-import tesorero from "../assets/tesorero.jpeg";
-import prensa from "../assets/prensa.jpeg";
-import relacionesInternas from "../assets/internas.jpeg";
+import presidente from "../assets/presidente.png";
+import vice from "../assets/11.png";
+import tesorero from "../assets/8.png";
+import prensa from "../assets/13.png";
+import relacionesInternas from "../assets/10.png";
 import relacionesExternas from "../assets/externas.jpeg";
-import deportes from "../assets/deportes.jpeg";
-import cultura from "../assets/cultura.jpeg";
-import accionSocial from "../assets/accionSocial.jpeg";
-import bienestar from "../assets/bienestar.jpeg";
+import deportes from "../assets/14.png";
+import cultura from "../assets/12.png";
+import accionSocial from "../assets/9.png";
+import bienestar from "../assets/7.png";
 
 
 const About = () => {
